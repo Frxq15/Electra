@@ -1,0 +1,40 @@
+
+.jumbotron {
+	padding-top: 80px;
+	font-family: 'Raleway', sans-serif;
+	background-image: url(https://ak5.picdn.net/shutterstock/videos/17591545/thumb/1.jpg);
+	font-weight: small;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.center {
+	text-align: center;
+}
+.img {
+	width: 400;
+	hight: 150;
+}
+footer {
+  width:100%;
+  height:20%
+  position:absolute;
+  bottom:0;
+  left:0;
+}
+#blue {
+    background: #3532CB;
+}
+#red {
+    background: #e01f33;
+}
+#green {
+    background: #34eb46;
+}
+nav .navbar-nav li a{
+  text-decoration-color: red;
+  }
+footer {
+    text-decoration-line: bold;
+
+}
